@@ -1,0 +1,6 @@
+D:\Programowanie\Projekty\Drzewko\Drzewko\bin\Debug\Drzewko.exe.config
+D:\Programowanie\Projekty\Drzewko\Drzewko\obj\Debug\Drzewko.csprojResolveAssemblyReference.cache
+D:\Programowanie\Projekty\Drzewko\Drzewko\bin\Debug\Drzewko.exe
+D:\Programowanie\Projekty\Drzewko\Drzewko\bin\Debug\Drzewko.pdb
+D:\Programowanie\Projekty\Drzewko\Drzewko\obj\Debug\Drzewko.exe
+D:\Programowanie\Projekty\Drzewko\Drzewko\obj\Debug\Drzewko.pdb
